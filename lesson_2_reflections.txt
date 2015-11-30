@@ -14,3 +14,8 @@ files edited and ready to commit
 
 when writing a git message.... write it as a command
 eg  "add a new styl"   instead of "added a new style"
+
+
+
+git diff  'working directory'  'staging area'
+git diff --staged  'staging area'   'commit' 
