@@ -22,3 +22,25 @@ git diff --staged  'staging area'   'commit'
 
 
 git log --graph --oneline master coins
+
+git show  [commit]        "shows commit against parent"
+
+
+git hub----
+
+see current remotes ---> git remote
+
+*you add a remote repo to you local 
+
+to add repo on github --> git remote add origin  "url"
+
+---> get remote -v
+
+git push [remote to send] [local branch]
+
+
+* I got a permission error
+
+https://help.github.com/articles/generating-ssh-keys/
+
+** it was using my old gigmasters ssh key
